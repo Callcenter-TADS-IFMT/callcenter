@@ -12,6 +12,8 @@ and open the template in the editor.
     <body>
         <?php
         sdsd
+        sdsd
+        sdsd
         echo "Teste";
         ?>
     </body>
