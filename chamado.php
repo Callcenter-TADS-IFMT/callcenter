@@ -9,7 +9,7 @@
 
         <form class="form-inline">
             <div class="form-group">
-                <label for="tit">Titulo</label>
+                <label for="tit">Título</label>
                 <input type="text" class="form-control" id="tit" placeholder="Jane Doe">
             </div>
             <div class="form-group">
