@@ -9,8 +9,8 @@
 
         <form class="form-inline">
             <div class="form-group">
-                <label for="titulo">Titulo</label>
-                <input type="text" class="form-control" id="titulo" placeholder="Jane Doe">
+                <label for="tit">Titulo</label>
+                <input type="text" class="form-control" id="tit" placeholder="Jane Doe">
             </div>
             <div class="form-group">
                 <label for="status">Status</label>
