@@ -14,9 +14,10 @@
             </div>
             <div class="form-group">
                 <label for="status">Status</label>
-                <select class="form-control" name="status" id="status"></select>
-                 <option value="E">Em andamento</option>
-                 <option value="F">Fechado</option>
+                <select class="form-control" name="status" id="status">
+                    <option value="E">Em andamento</option>
+                    <option value="F">Fechado</option>
+                </select>
             </div>
         </form>
 
