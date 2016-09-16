@@ -9,15 +9,17 @@
     <div class="container">
         <div class="principal">
             <form>
-              <table class="table table-bordered" >
-                    </br>
-                    <tr>
-                        <td>Nome do Cliente</td>
-                        <td>Idade</td>
-                          <td>Nome do Tecnico</td>
-                          <td style="column-width:10">Assumir</td>
-                    </tr>
-                </table>
+                <table class="table table-striped table-bordered"><?php
+                   echo '<th> N°OS </th>';
+                    echo "<th>Nome</th>";
+                    echo "<th>Idade</th>";
+                    echo '<th>Tecnico</th>';
+                    echo '<th>Assumir</th>';
+                    
+                   ?>
+                    
+                   
+                   
             </form>
         </div>
     </div> 

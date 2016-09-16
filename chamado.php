@@ -33,7 +33,7 @@
                 <div class="row">
                     <div class="col-md-1" style="margin-bottom: 10px">
                         <div class="form-group">
-                            <button type="button" class="fa fa-search" style="width: 65px;height: 35px" data-to/>
+                            <button type="button" class="fa fa-search" style="width: 65px;height: 35px" data-toggle="modal" data-target=""/>
                         </div>
                     </div>
                     <div class="col-md-11" style="text-align: left;margin-bottom: 10px">
