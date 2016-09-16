@@ -14,14 +14,14 @@
             <form class="form-inline">
 
                 <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-md-6" style="margin-bottom: 10px">
                         <div class="form-group">
-                            <input type="text" style="width: 520px" class="form-control" id="tit" placeholder="Titulo">
+                            <input type="text" style="width: 618px" class="form-control" id="tit" placeholder="Titulo">
                         </div>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6" style="text-align: right;margin-bottom: 10px">
                         <div class="form-group">
-                            <select style="width: 250px;align-items: flex-end" class="form-control" name="status" id="status">
+                            <select style="width: 250px" class="form-control" name="status" id="status">
                                 <option value="Z" selected="selected">Status do Chamado</option>
                                 <option value="E">Em andamento</option>
                                 <option value="F">Fechado</option>
@@ -31,44 +31,29 @@
                 </div>
 
                 <div class="row">
-                    <div class="col-md-12">
+                    <div class="col-md-1" style="margin-bottom: 10px">
                         <div class="form-group">
-                            <input type="text" style="width: 1024px" class="form-control" id="cli" placeholder="Relato do chamado">
+                            <button type="button" class="fa fa-search" style="width: 65px;height: 35px" data-to/>
+                        </div>
+                    </div>
+                    <div class="col-md-11" style="text-align: left;margin-bottom: 10px">
+                        <div class="form-group">
+                            <input type="text" style="width: 520px" class="form-control" id="cli" placeholder="Cliente">
                         </div>
                     </div>
                 </div>
 
+                <div class="row">
+                    <div class="col-md-12" style="margin-bottom: 10px">
+                        <div class="form-group">
+                           <input type="text" style="width: 618px;height: 80px" class="form-control" id="rlt" placeholder="Relato do chamado">
+                        </div>
+                    </div>
+                </div>
 
-
-
-
-
-
-                <!--            <div class="form-group">
-                                <label for="tit">Título</label></br>
-                                <input type="text" size="40" class="form-control" id="tit" placeholder="Jane Doe">
-                            </div>
-                
-                            <div class="form-group">
-                                <label for="status">Status</label></br>
-                                <select class="form-control" name="status" id="status">
-                                    <option value="E">Em andamento</option>
-                                    <option value="F">Fechado</option>
-                                </select>
-                            </div>
-                
-                            <div class="form-group">
-                                <label for="cli">Cliente</label></br>
-                                <input type="text" class="form-control" id="cli" placeholder="Teste">
-                            </div>
-                
-                            <div class="form-group">
-                                <label for="rel">Relato</label></br>
-                                <input type="text" size="50" class="form-control" id="rel" placeholder="Relate aqui o relato do seu chamado!">
-                            </div>-->
             </form>
 
-            <h1 style="font-size: 32">Tramites</h1>
+            <h1 style="font-size: 32">Trâmites</h1>
 
 
 
