@@ -17,7 +17,6 @@
                           <td>Nome do Tecnico</td>
                           <td style="column-width:10">Assumir</td>
                     </tr>
-                                  
                 </table>
             </form>
         </div>
