@@ -6,7 +6,7 @@
     </div>
 
 
-    <div class="col-md-9" >
+    <div class="col-md-9">
         <table class="table table-striped table-bordered ">  
             <thead class="thead-default">
                 <tr>
