@@ -1,7 +1,7 @@
 <?php include './cabecalho.php' ;?>
 <form>
     
-    <div class="container">
+    <div class="container col-md-4 col-lg-offset-4 ">
      <table   >
         <tr>
             <td>Login:</td> 
