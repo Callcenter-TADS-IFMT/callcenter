@@ -30,7 +30,7 @@
                 </div>
 
                 <div class="row">
-<<<<<<< HEAD
+
                     <div class="col-md-1" style="margin-bottom: 10px">
                         <div class="form-group">
                             <button type="button" class="fa fa-search" style="width: 65px;height: 35px" data-toggle="modal" data-target="#myModal"/>
@@ -252,7 +252,7 @@
 
 
 
-=======
+
                     <div class="form-group col-md-12 col-xs-12">
                         <div class="input-group col-md-12 col-xs-12 col-lg-12">
                               <span class="input-group-btn">
@@ -262,7 +262,7 @@
                               </span>
                             <input type="text" class="form-control" disabled id="cli" placeholder="Cliente">
                         </div><!-- /input-group -->
->>>>>>> origin/master
+
                     </div>
 
 
@@ -328,8 +328,7 @@
             alert(nomeCliente);
         }
     </script>
-<<<<<<< HEAD
+
 <?php include_once('rodape.php'); ?>
-=======
+
 <?php include_once('rodape.php'); ?>
->>>>>>> origin/master

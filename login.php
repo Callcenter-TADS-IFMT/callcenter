@@ -12,7 +12,8 @@
             <td><input class="form-control" type="text" name="senha" /><br/></td>
         </tr>
         <tr>
-       <td> <input class="btn btn-primary" type="submit" value="Cadastrar" /></td>
+       <td> <input class="btn btn-primary" type="submit" value="Cadastrar" href="index.php" />
+       </td>
         </tr>
        </table>
     </div>
