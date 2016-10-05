@@ -5,8 +5,9 @@
         <?php include_once('sidebar.php'); ?>
     </div>
 
-
+    <h2>Chamados em Atendimento</h2>
     <div class="col-md-9">
+        
         <table class="table table-striped table-bordered ">  
             <thead class="thead-default">
                 <tr>
